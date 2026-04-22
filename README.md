@@ -93,7 +93,9 @@ public class VickyKumar {
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Vickykumar03&theme=tokyonight&hide_border=true&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" width="60%"/>
-
+<img src="https://github-readme-stats.shion.dev/api?username=Vickykumar03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vickykumar03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117" height="180" />
 </div>
 
 ---
