@@ -6,7 +6,6 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%F0%9F%9A%80+Building+Clean+%26+Scalable+Code;%F0%9F%A7%A0+Solving+DSA+Problems+Daily;%E2%9A%99%EF%B8%8F+Java+%7C+C%2B%2B+%7C+OOP+%7C+System+Design;%F0%9F%8C%B1+Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
-<!-- Profile Views Badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Vickykumar03&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -18,13 +17,13 @@
 ```java
 public class VickyKumar {
 
-    String name        = "Vicky Kumar";
-    String role        = "Aspiring Software Developer";
-    String education   = "Computer Science Student";
-    String[] focus     = {"Data Structures", "Algorithms", "Backend Dev"};
-    String superpower  = "Turning logic into clean, efficient code";
-    String goal        = "Build impactful & scalable software";
-    boolean openSource = true;
+    String name            = "Vicky Kumar";
+    String role            = "Aspiring Software Developer";
+    String education       = "Computer Science Student";
+    String[] focus         = {"Data Structures", "Algorithms", "Backend Dev"};
+    String superpower      = "Turning logic into clean, efficient code";
+    String goal            = "Build impactful & scalable software";
+    boolean openSource     = true;
     boolean alwaysLearning = true;
 
     public String motto() {
@@ -59,6 +58,7 @@ public class VickyKumar {
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
@@ -82,23 +82,6 @@ public class VickyKumar {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Vickykumar03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vickykumar03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117" height="180" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Vickykumar03&theme=tokyonight&hide_border=true&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" width="60%"/>
-
-</div>
-
-
----
-
 ## 🚀 Currently On
 
 ```diff
@@ -112,10 +95,31 @@ public class VickyKumar {
 
 ## 📌 Featured Projects
 
-| 🛒 Grocery Billing System | A Java-based billing application with OOP design, item management, and bill generation. |
+| Project | Description |
 |---|---|
-| 🔧 DSA Practice Repo | Solutions to 100+ problems across arrays, linked lists, trees, graphs, and DP. |
-| 🌐 Web Projects | Mini frontend projects using HTML, CSS & JavaScript. |
+| 🛒 **Grocery Billing System** | A Java-based billing application with OOP design, item management, and bill generation. |
+| 🔧 **DSA Practice Repo** | Solutions to 100+ problems across arrays, linked lists, trees, graphs, and DP. |
+| 🌐 **Web Projects** | Mini frontend projects using HTML, CSS & JavaScript. |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Vickykumar03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vickykumar03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117" height="180" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Vickykumar03&theme=tokyonight&hide_border=true&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Vickykumar03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="60%"/>
+
+</div>
 
 ---
 
@@ -125,6 +129,16 @@ public class VickyKumar {
 
 ![Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -143,19 +157,8 @@ public class VickyKumar {
 
 ---
 
-### ✍️ Dev Quote of the Day
-
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00f5ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 **⭐ Star my repos if you find them helpful!**
