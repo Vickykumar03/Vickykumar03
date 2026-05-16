@@ -108,25 +108,19 @@ Collection of DSA solutions covering arrays, linked lists, trees, graphs, recurs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vickykumar03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vickykumar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickykumar03&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickykumar03&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&size_weight=0.4&count_weight=0.6"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Vickykumar03&theme=tokyonight&hide_border=true&background=0D1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" width="70%"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Vickykumar03&theme=tokyonight&hide_border=true&background=0D1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vickykumar03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vickykumar03&theme=tokyonight" width="95%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vickykumar03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff"/>
 
 </div>
-
----
 
 # 🐍 Contribution Snake
 
