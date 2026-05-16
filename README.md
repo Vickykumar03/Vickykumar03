@@ -104,9 +104,12 @@ public class VickyKumar {
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vickykumar03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vickykumar03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Vickykumar03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=Vickykumar03&theme=dark&hide_border=false)<br/> <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vickykumar03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vickykumar03&theme=github-compact&bg_color=0d1117&color=ffffff&line=00f5ff&point=a78bfa&hide_border=true" width="95%"/>
 
 ---
 
