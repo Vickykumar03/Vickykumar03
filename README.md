@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vicky%20Kumar&fontSize=58&fontColor=00f5ff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Backend%20Learner&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Vicky%20Kumar&fontSize=60&fontColor=00F5FF&fontAlignY=38&desc=Aspiring%20Software%20Developer%20|%20DSA%20Enthusiast%20|%20Backend%20Learner&descAlignY=58&descColor=A78BFA&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+Clean+%26+Scalable+Applications;%F0%9F%A7%A0+Solving+DSA+Problems+Daily;%E2%9A%99%EF%B8%8F+Java+%7C+C%2B%2B+%7C+OOP+%7C+Backend+Development;%F0%9F%8C%B1+Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=🚀+Building+Clean+%26+Scalable+Applications;🧠+Solving+DSA+Problems+Daily;⚙️+Java+|+C%2B%2B+|+Backend+Development;🌱+Always+Learning+|+Always+Building" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Vickykumar03&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS"/>
 
@@ -15,8 +19,7 @@
 ```java
 public class VickyKumar {
 
-    String role        = "Aspiring Software Developer";
-    String education   = "Computer Science Student";
+    String role = "Aspiring Software Developer";
 
     String[] skills = {
         "Java",
@@ -26,14 +29,12 @@ public class VickyKumar {
         "Object Oriented Programming"
     };
 
-    String currentFocus = "Building scalable and impactful software";
+    String currentFocus =
+        "Building scalable and impactful software";
 
-    boolean learningEveryday = true;
-    boolean openSource       = true;
+    String motto =
+        "Always learning. Always building.";
 
-    String motto() {
-        return "Always learning. Always building.";
-    }
 }
 ```
 
@@ -45,29 +46,15 @@ public class VickyKumar {
 
 ### 🖥️ Languages
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
 
-### 🌐 Frontend
+### ⚙️ Frameworks & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode" />
 
-### ⚙️ Backend & Tools
+### ☁️ Cloud & Platforms
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### ☁️ Cloud & Hosting
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<img src="https://skillicons.dev/icons?i=aws,netlify,vercel,render" />
 
 </div>
 
@@ -76,7 +63,7 @@ public class VickyKumar {
 # 🚀 Currently Exploring
 
 ```diff
-+ Advanced Data Structures & Algorithms
++ Advanced DSA & Problem Solving
 + Backend Development & APIs
 + System Design Fundamentals
 + Open Source Contributions
@@ -87,19 +74,19 @@ public class VickyKumar {
 
 # 📌 Featured Projects
 
-### 🛒 Grocery Billing System
+## 🛒 Grocery Billing System
 Java-based billing application using OOP concepts with item management and invoice generation.
 
-### 🧠 Skill Gap Analyzer
+## 🧠 Skill Gap Analyzer
 Analyzes skill gaps based on user profile and target role to generate personalized learning paths.
 
-### 💊 Common Medicine Detector
-Detects and identifies common medicines and provides quick relevant information.
+## 💊 Common Medicine Detector
+Detects and identifies medicines while providing quick relevant information.
 
-### 🌐 Frontend Web Projects
+## 🌐 Frontend Web Projects
 Responsive frontend mini-projects built using HTML, CSS, and JavaScript.
 
-### 🔧 DSA Practice Repository
+## 🔧 DSA Practice Repository
 Collection of DSA solutions covering arrays, linked lists, trees, graphs, recursion, and DP.
 
 ---
@@ -108,35 +95,17 @@ Collection of DSA solutions covering arrays, linked lists, trees, graphs, recurs
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vickykumar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vickykumar03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickykumar03&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&size_weight=0.4&count_weight=0.6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickykumar03&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&size_weight=0.5&count_weight=0.5"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Vickykumar03&theme=tokyonight&hide_border=true&background=0D1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Vickykumar03&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=A78BFA&currStreakLabel=00F5FF"/>
 
 <br><br>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vickykumar03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff"/>
-
-</div>
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# ✍️ Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -146,13 +115,21 @@ Collection of DSA solutions covering arrays, linked lists, trees, graphs, recurs
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-kumar-342566383)
+<a href="https://www.linkedin.com/in/vicky-kumar-342566383">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kr_vicky.03)
+<a href="https://instagram.com/kr_vicky.03">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickykumar14032006@gmail.com)
+<a href="mailto:vickykumar14032006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vickykumar03)
+<a href="https://github.com/Vickykumar03">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -160,7 +137,7 @@ Collection of DSA solutions covering arrays, linked lists, trees, graphs, recurs
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=00f5ff&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:24243e,50:302b63,100:0f0c29"/>
 
 ### ⭐ Star repositories if you find them useful!
 
