@@ -123,6 +123,18 @@ Collection of DSA solutions covering arrays, linked lists, trees, graphs, recurs
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vickykumar03&theme=tokyonight" width="95%"/>
 
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Vickykumar03&theme=tokyonight&hide_border=true&background=0D1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vickykumar03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vickykumar03&theme=tokyonight" width="95%"/>
+
 </div>
 
 ---
